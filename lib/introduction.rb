@@ -1,4 +1,4 @@
-introduction = "Josh"
+introduction = Josh
 def introduction
    puts="Hi,my name is #{introduction}."
 end
