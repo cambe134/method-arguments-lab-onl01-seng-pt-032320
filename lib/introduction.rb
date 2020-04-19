@@ -1,3 +1,3 @@
-def introduction(name)
-  puts="Hi, ny bane us #{name}"
+def introduction(Josh)
+   puts="Hi, ny bane us #{name}"
 end
