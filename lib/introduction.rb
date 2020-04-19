@@ -1,3 +1,3 @@
-def introduction(name)
-   puts="Hi,my name is #{name}.\n"
+def introduction(Josh)
+   puts="Hi,my name is #{Josh}.\n"
 end
