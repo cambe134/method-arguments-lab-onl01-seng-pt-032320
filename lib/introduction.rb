@@ -1,5 +1,6 @@
-def introduction = ("Josh")
-   puts="Hi,my name is #{Josh}."
+introduction = "Josh"
+def introduction 
+   puts="Hi,my name is #{introduction}."
 end
 
  def introduction_with_language (name, language)
